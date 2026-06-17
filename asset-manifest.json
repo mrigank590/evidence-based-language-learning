@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/evidence-based-language-learning/static/css/main.dc69865d.css",
+    "main.js": "/evidence-based-language-learning/static/js/main.3d39b8de.js",
+    "index.html": "/evidence-based-language-learning/index.html",
+    "main.dc69865d.css.map": "/evidence-based-language-learning/static/css/main.dc69865d.css.map",
+    "main.3d39b8de.js.map": "/evidence-based-language-learning/static/js/main.3d39b8de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc69865d.css",
+    "static/js/main.3d39b8de.js"
+  ]
+}
